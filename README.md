@@ -82,7 +82,7 @@ The variables you'd probably need to adjust include (at minimum):
 + **$Top_O**
 + **$OU**
 + **$login_context**
-+ **ServerIP**
++ **$ServerIP**
 
 Keep in mind that, as written, even when it is working flawlessly, it doesn't do anything except login to eDirectory, perform a simple search, and write a simple log file.
 
