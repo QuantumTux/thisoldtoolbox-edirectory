@@ -92,6 +92,9 @@ Now that you understand the basics, to get useful work done, you need to manipul
 ## create_object.pl
 Demonstrates the basics of creating a new **Object** in an eDirectory Tree.
 
+## create_object.pl
+An example of deleting an existing eDirectory **Object** from the  eDirectory Tree.
+
 ## enumerate.pl
 This code snippet gives you some tools to explore the **Schema**, by listing the **Layouts** and **Attributes** of the **Objects** defined in the eDirectory Tree. Know before you go.
 
@@ -100,3 +103,9 @@ In this file, I provide code to find specific eDirectory **Objects**, without us
 
 ## get_object.pl
 Provides an example of reading **Values** from the **Attributes** of an **Object**.
+
+## get_properties
+FORTHCOMING
+
+## modify_object.pl
+FORTHCOMING
