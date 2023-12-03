@@ -155,9 +155,11 @@ my $work_OU = ”Sales”;
 my $work_context = ”\\$Top_O\\$work_OU”;
 $eDirObj->{“FullName”} = “nds:\\\\$Tree$work_context”;
 
+#######################################################################
 # IMPORTANT NOTE: There is no return code or error check; an error will
 #                 be raised when a context-sensitive method is called
 #                 and it fails
+#######################################################################
 
 # It's useful to be able to search the eDirectory Tree; you can search
 #   on a number of criteria, and for any eDirectory object, but here I
