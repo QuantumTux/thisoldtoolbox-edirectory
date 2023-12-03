@@ -94,3 +94,6 @@ This code snippet gives you some tools to explore the **Schema**, by listing the
 
 ## find_object.pl
 In this file, I provide code to find specific eDirectory **Objects**, without using the **Search** method, or by using the **Item** method to look in the results of a search.
+
+## get_object.pl
+Provides an example of reading **Values** from the **Attributes** of an **Object**
