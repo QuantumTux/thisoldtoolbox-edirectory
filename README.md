@@ -89,6 +89,9 @@ Keep in mind that, as written, even when it is working flawlessly, it doesn't do
 # Additional Perl Code
 Now that you understand the basics, to get useful work done, you need to manipulate **Objects**. This repo has a number of code examples that show how to approach various operations. **_These files are not stand-alone code_**; they must be integrated into a larger program like **edir_tool.pl**.
 
+## create_object.pl
+Demonstrates the basics of creating a new **Object** in an eDirectory Tree.
+
 ## enumerate.pl
 This code snippet gives you some tools to explore the **Schema**, by listing the **Layouts** and **Attributes** of the **Objects** defined in the eDirectory Tree. Know before you go.
 
@@ -96,4 +99,4 @@ This code snippet gives you some tools to explore the **Schema**, by listing the
 In this file, I provide code to find specific eDirectory **Objects**, without using the **Search** method, or by using the **Item** method to look in the results of a search.
 
 ## get_object.pl
-Provides an example of reading **Values** from the **Attributes** of an **Object**
+Provides an example of reading **Values** from the **Attributes** of an **Object**.
