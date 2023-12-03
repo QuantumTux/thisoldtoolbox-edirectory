@@ -92,7 +92,7 @@ Now that you understand the basics, to get useful work done, you need to manipul
 ## create_object.pl
 Demonstrates the basics of creating a new **Object** in an eDirectory Tree.
 
-## create_object.pl
+## delete_object.pl
 An example of deleting an existing eDirectory **Object** from the  eDirectory Tree.
 
 ## enumerate.pl
