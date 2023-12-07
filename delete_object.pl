@@ -36,7 +36,7 @@
 # IMPORTANT NOTE: Objects deletion occurs in the current context, as
 #                 stored in the FullName Property of the eDirectory
 #                 Object. Make sure the context is properly set before
-#                 creating the Object.
+#                 deleting the Object.
 #######################################################################
 
 # The CN of the Object to be deleted
