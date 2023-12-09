@@ -72,7 +72,7 @@ $UserCN = $Entry->GetFieldValue(“CN”);
 # For the sake of simplicity, I assume success
 print “\nUser Object: $UserCN\n”;
 
-# I'll now demonstrate reading additional values, invluding a
+# I'll now demonstrate reading additional values, including a
 #   Multi-Valued Attribute (MVA), which must be read into an Array
 #   (even if it only has one Value)
 # Here is an example of including the second parameter of
@@ -84,8 +84,8 @@ else
   { print “\tFull Name Attribute is blank\n”; }
 
 # Now retrieve an MVA - in this case, the Description
-# Observe that since the data is being returned to an array, the second
-#   parameter of GetFieldValue must be true
+# Observe that since the data is being returned to an array, the
+#   second parameter of GetFieldValue must be "true"
 @UserDescription = $Entry->GetFieldValue(“Description”, true);
 if ( @UserDescription )
   {
@@ -94,7 +94,6 @@ if ( @UserDescription )
   }
 else
   { print “\tDescription Attribute is blank\n”; }
-
 
 # The output should look something like this made-up example:
 #
