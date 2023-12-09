@@ -56,11 +56,6 @@ my $NewUserEmail = “fjohnson\@company.tld”;
 my $ObjectList;
 my $NewObject;
 
-
-
-We'll build on Example 3, declaring some variables that are simply hard-coded with the data for the new User Object, and getting a pointer to the list of Objects in the current context. 
-We'll create the Object with the AddElement method, then populate its Attributes with the SetFieldValue method. Finally, the Update method will commit the populated Object to eDirectory:
-
 # I'm reusing the eDirectory Object from edit_tool.pl
 # Get the Object entries for the current context
 $ObjectList = $eDirObj->{“Entries”};
