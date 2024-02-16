@@ -1,3 +1,16 @@
+# Community Warning
+Some outfit called "Yumpu" has **stolen** an earlier version of my work on this code, and is trying to make money off of it
+
+<details>
+
+  <summary>Why I Believe Yumpu Are Thieves</summary>
+  
+  These guys claim to be a self-publishing website. However, I have never given them permission to publish my work. In fact, I have no relationship at all with them. From what I can tell, they took old, publically-available versions of my work and now offer them for sale.
+  
+  **As far as I am concerned, they are thieves**. I implore anyone reading this to avoid doing business with them.
+
+</details>
+
 # thisoldtoolbox-edirectory
 **_Please, please, please..._** read this _entire_ page **BEFORE** trying to use this repo.
 
