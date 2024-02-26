@@ -103,9 +103,9 @@ while ( $Fields->HasMoreElements() )
   }
 
 # Declare some local variables to contain information on the Syntax
-# Syntax refers to the description of each Attribute; that is, is it q
+# Syntax refers to the description of each Attribute; that is, is it a
 #   simple data type (e.g. an integer, a BOOLEAN) or a complex data
-#   type (e.g. a path, time, an ACL)
+#   type (e.g. a path, timestamp, an ACL)
 # Additionally, is the Attribute single-Valued or multi-Valued, and
 #   removable or non-removable
 my $TypeList;
