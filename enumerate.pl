@@ -45,7 +45,7 @@
 #               a total of a thousand defined Attributes in most
 #               cases, and defines over 170 Layouts. Knowing and 
 #               understanding this information is crucial to being
-#               able to leverage eDirectory to it's full power as a
+#               able to leverage eDirectory to its full power as a
 #               business advantage.
 #######################################################################
 
