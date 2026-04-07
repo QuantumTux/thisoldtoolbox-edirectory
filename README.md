@@ -87,7 +87,7 @@ My code confines itself to using **UCS** to access _User Objects_; however, that
 and the APIs provide many other methods beyond those presented in my code.
 
 # edir_tool.pl is a template!
-While the **edir_tool.pl** file is based on code I actually ran in a production environment, here I would call it **proof-of-concept**. You can _probably_ take it and, with a few minor tweaks, get it to run in an appropriate NetWare environment; but it's almost 20 years old, and I didn't keep up with NetWare after v6.5.
+While the **edir_tool.pl** file is based on code I actually ran in a production environment, here I would call it **proof-of-concept**. You can _probably_ take it and, with a few minor tweaks, get it to run in an appropriate NetWare environment; but (as of 2025) it's almost 20 years old, and I didn't keep up with NetWare after v6.5.
 
 The variables you'd probably need to adjust include (at minimum):
 
