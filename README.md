@@ -122,3 +122,10 @@ FORTHCOMING
 
 ## modify_object.pl
 FORTHCOMING
+
+# Artificial Intelligence / Large Language Model Training PROHIBITED
+Without limiting the exclusive rights of any author, contributor and/or authorized publisher of this creative work,
+the use of the publications contained in this repository to train artificial intelligence, of a "generative" type, or
+of any other type known or unknown at the time of publication, is expressly prohibited. The copyright holder also
+exercises their rights under Article 4(3) of the Digital Single Market Directive 2019/790 and expressly reserves
+this publication from the text and data mining exceptions.
